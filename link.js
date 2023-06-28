@@ -1,0 +1,1 @@
+const offerLink = "https://direct.me/l/dA7b";
